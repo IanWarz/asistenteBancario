@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/apertura-tarjeta",
+    "/bloqueo-tarjeta",
+    "/panatalla-inicio",
+    "/transferencia"
+  ]
+}
